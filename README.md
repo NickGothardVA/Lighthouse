@@ -1,22 +1,10 @@
-## Web Site Change Detection, Restock monitoring and notifications.
+## A movement-owned democracy monitoring platform.
 
-**_Detect website content changes and perform meaningful actions - trigger notifications via Discord, Email, Slack, Telegram, API calls and many more._**
-
-_Live your data-life pro-actively._ 
-
+**_Building a robust database and notification system for democracy organizations in Virginia._**
 
 [<img src="https://raw.githubusercontent.com/dgtlmoon/changedetection.io/master/docs/screenshot.png" style="max-width:100%;" alt="Self-hosted web page change monitoring"  title="Self-hosted web page change monitoring"  />](https://changedetection.io?src=github)
 
-[![Release Version][release-shield]][release-link] [![Docker Pulls][docker-pulls]][docker-link] [![License][license-shield]](LICENSE.md)
-
-![changedetection.io](https://github.com/dgtlmoon/changedetection.io/actions/workflows/test-only.yml/badge.svg?branch=master)
-
-[**Don't have time? Let us host it for you! try our $8.99/month subscription - use our proxies and support!**](https://changedetection.io) , _half the price of other website change monitoring services!_
-
-- Chrome browser included.
-- Super fast, no registration needed setup.
-- Get started watching and receiving website change notifications straight away.
-
+[![License][license-shield]](LICENSE.md) [Based on the open-source changedetection.io project.](https://github.com/dgtlmoon/changedetection.io)
 
 ### Target specific parts of the webpage using the Visual Selector tool.
 
